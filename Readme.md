@@ -1,5 +1,9 @@
 # OneFeed
 
+A project by [NoahMeissner](https://github.com/NoahMeissner) & [Max-We](https://github.com/Max-We)
+
+> Neuropsychologists such as Lutz Jäncke report that the users brain is overwhelmed by the flood of information on the Internet, and thus loses the ability to distinguish between qualitative and quantitative content. Therefore, OneFeed should make it possible to consume all kinds of written media on the Internet through one channel and thus also to control it in order to prevent the brain from being overwhelmed.
+
 ## Documents
 
 - [_User Guide_ for the App](App.md)
