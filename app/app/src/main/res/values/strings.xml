@@ -56,7 +56,7 @@
     <string name="insight_activity_title">Konsumverhalten</string>
     <string name="insight_chart_subtitle">Gelesene Artikel</string>
     <string name="insight_shown_articles_tooltip">
-        Diese Einstellung legt fest, wie viele Neuigkeiten in deinem Feed erscheinen.\nEine gute Balance liegt bei 10 gelesenen Artikeln am Tag, was ungefähr 30 Minuten entspricht.
+        Diese Einstellung legt fest, wie viele Artikel Sie an einem Tag öffnen können.\nEine gute Balance liegt bei 10 gelesenen Artikeln am Tag, was ungefähr 30 Minuten entsprichtß.
     </string>
     <string name="insight_chart_toggle_week">Woche</string>
     <string name="insight_chart_toggle_month">Monat</string>
