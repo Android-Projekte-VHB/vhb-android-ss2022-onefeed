@@ -46,8 +46,8 @@ public class TwitterApiHelper {
 
     // Todo: move to strings
     private final String oneFeedClientId = "TkJXRHNFaVg4eUpGYkVMaGtPWHI6MTpjaQ";
-    private final String authCallbackUrl = "com.example.onefeed.redirect://callback";
-    private final String logoutCallbackUrl = "com.example.onefeed.redirect://logout";
+    private final String authCallbackUrl = "com.onefeed.app.redirect://callback";
+    private final String logoutCallbackUrl = "com.onefeed.app.redirect://logout";
     private final NewsSource twitterNewsSource = new NewsSource("Twitter");
 
     public TwitterApiHelper(Context context) {
