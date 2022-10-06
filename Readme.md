@@ -1,11 +1,16 @@
-# Name Ihrer App
+# OneFeed
 
-_Beschreiben Sie hier kurz und knapp die wesentlichen Ziele und Funktionen Ihrer Anwendung. Ergänzen Sie einen aussagekräftigen Screenshot und betten Sie eine kurze GIF-Version des Trailers ein. Weitere Hinweise zur Verwendung des Repository finden Sie in der Datei [Todo.md](Todo.md). Entfernen Sie vor der finalen Abgabe Ihres Projekts alle Platzhalter und Hinweise aus den Markdown-Dokumenten._
+## Documents
 
+- [_User Guide_ for the App](App.md)
+- [Team](Team.md)
 
-## Übersicht über weitere Dokumente
+### Application
 
-- [_User Guide_ zur App](App.md)
-- [Das Team](Team.md)
-- [Link zum Trailer](https://ann.nl.tab.digital/s/e3WmJY9zMyEwG7w)
-- [APK-Datei der fertigen Version](https://ann.nl.tab.digital/s/CMRPKND6scxrwdG)
+- [Trailer](https://ann.nl.tab.digital/s/e3WmJY9zMyEwG7w)
+- [APK-File](https://ann.nl.tab.digital/s/CMRPKND6scxrwdG)
+
+### Figma designs
+
+- [High fidelity designs](https://www.figma.com/file/Qs7Rt1sHatCUhQgSL1n5ZC/OneFeed-Design-New?node-id=0%3A1)
+- [Low fidelity sketches](https://www.figma.com/file/do8SWaPprpOsCCPQiwce9u/OneFeed-Sketches?node-id=0%3A1)
